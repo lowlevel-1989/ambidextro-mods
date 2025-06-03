@@ -1,6 +1,6 @@
 # 🎮 Ambidextro Mods
 
-**[Leer en español 🇪🇸](#mods-para-ambidextro)**
+**[Leer en español 🇪🇸](https://github.com/lowlevel-1989/ambidextro-mods?tab=readme-ov-file#-mods-para-ambidextro)**
 
 Collection of mods designed to expand and enhance the gameplay experience in *Ambidextro*. Each mod can be installed independently and adds specific features like interface improvements or gameplay tweaks.
 
