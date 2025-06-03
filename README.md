@@ -6,8 +6,8 @@ Collection of mods designed to expand and enhance the gameplay experience in *Am
 
 ## 📦 Included
 
-- [`AmbidextroAchievements.zip`](#🏆-ambidextro-achievements)
-- [`AmbidextroTrampolineBehavior.zip`](#🪂-ambidextro-trampoline-behavior)
+- [`AmbidextroAchievements.zip`](lowlevel1989-AmbidextroAchievements.zip)
+- [`AmbidextroTrampolineBehavior.zip`](lowlevel1989-AmbidextroTrampolineBehavior.zip)
 
 ---
 
@@ -69,8 +69,9 @@ Colección de mods diseñados para ampliar y mejorar la experiencia de juego en 
 
 ## 📦 Contenido
 
-- [`AmbidextroAchievements.zip`](#🏆-ambidextro-achievements-1)
-- [`AmbidextroTrampolineBehavior.zip`](#🪂-ambidextro-trampoline-behavior-1)
+
+- [`AmbidextroAchievements.zip`](lowlevel1989-AmbidextroAchievements.zip)
+- [`AmbidextroTrampolineBehavior.zip`](lowlevel1989-AmbidextroTrampolineBehavior.zip)
 
 ---
 
