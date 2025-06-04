@@ -33,7 +33,7 @@ Adds an in-game achievement interface that lets you:
 - Custom save system for achievements.
 - Compatible with the achievements shown on [Steam](https://steamcommunity.com/stats/3445580/achievements).
 
-> ⚠️ This mod uses its own save system, which **is not compatible with the game's official achievement system**. Progress will only be preserved if the mod remains active.
+⚠️ Important: This mod uses its own local save system and does not sync achievements with Steam. Achievements unlocked with this mod are local only and not recognized by the official game system. Progress is saved separately and will only persist while the mod is active.
 
 ---
 
@@ -85,7 +85,7 @@ Este mod añade una interfaz de logros dentro del juego, permitiéndote:
 - Sistema de guardado propio para logros.
 - Compatible con los logros visibles en [Steam](https://steamcommunity.com/stats/3445580/achievements).
 
-> ⚠️ Este mod utiliza su propio sistema de guardado, el cual **no es compatible con el sistema de logros oficial del juego**. Solo podrás conservar tu progreso si mantienes este mod activo.
+⚠️ Importante: Este mod utiliza un sistema de guardado local propio y no sincroniza los logros con Steam. Los logros desbloqueados con este mod son solo locales y no son reconocidos por el sistema oficial del juego. El progreso se guarda por separado y solo se conservará mientras el mod esté activo.
 
 ---
 
