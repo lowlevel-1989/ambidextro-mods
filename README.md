@@ -51,18 +51,6 @@ This mod changes the behavior of trampolines in-game to be **faster and more res
 
 ---
 
-## 🛠️ Compatibility
-
-Designed for the PC version of Ambidextro. Future compatibility depends on updates to the base game and the Mod Loader.
-
----
-
-## 📬 Support
-
-Found a bug or have suggestions? Use the issue tracker or comment system on the platform where the mods are published to provide feedback.
-
----
-
 # 🇪🇸 Mods para Ambidextro
 
 Colección de mods diseñados para ampliar y mejorar la experiencia de juego en *Ambidextro*. Cada mod puede instalarse de forma independiente y añade funcionalidades específicas como mejoras en la interfaz o ajustes al gameplay.
@@ -112,20 +100,3 @@ Este mod modifica el comportamiento del trampolín dentro del juego para hacerlo
 - Mejora la fluidez del juego, especialmente en niveles que dependen de rebotes precisos.
 
 > 🎯 Este comportamiento refleja lo que muchos jugadores consideran como la forma "esperada" de funcionar del trampolín.
-
----
-
-## 🛠️ Compatibilidad
-
-Diseñados para funcionar con la versión de PC de Ambidextro. La compatibilidad con futuras versiones dependerá de las actualizaciones del juego base y del Mod Loader.
-
----
-
-## 📬 Soporte
-
-¿Tienes sugerencias o encontraste un bug? Si los mods están distribuidos en una plataforma pública, puedes usar el sistema de issues o comentarios en esa plataforma para dejar tu feedback.
-
----
-
-¡Disfruta de una experiencia más completa en Ambidextro! 🎉
-
