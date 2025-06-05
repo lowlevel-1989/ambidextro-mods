@@ -15,7 +15,7 @@ Collection of mods designed to expand and enhance the gameplay experience in *Am
 
 To use these mods, you must have the following installed:
 
-- ✅ [**Godot Mod Loader**](https://github.com/GodotModding/godot-mod-loader)  
+- ✅ [**Godot Mod Loader**](https://wiki.godotmodding.com/guides/integration/mod_loader_self_setup/#mod-loader-self-setup)  
   A mod loading system for Godot-based games. Install it in your game before enabling any mods.
 
 ---
@@ -67,7 +67,7 @@ Colección de mods diseñados para ampliar y mejorar la experiencia de juego en 
 
 Para que estos mods funcionen correctamente es necesario tener instalado:
 
-- ✅ [**Godot Mod Loader**](https://github.com/GodotModding/godot-mod-loader)  
+- ✅ [**Godot Mod Loader**](https://wiki.godotmodding.com/guides/integration/mod_loader_self_setup/#mod-loader-self-setup)  
   Sistema de carga de mods para juegos desarrollados con Godot. Instálalo previamente en tu juego para activar cualquier mod.
 
 ---
